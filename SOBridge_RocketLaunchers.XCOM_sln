@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # XCOM ModBuddy Solution File, Format Version 11.00
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "CIBridge_RocketLaunchers", "CIBridge_RocketLaunchers\CIBridge_RocketLaunchers.x2proj", "{F9961491-88FF-4A91-B4EC-26CDC2C8AC96}"
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "SOBridge_RocketLaunchers", "SOBridge_RocketLaunchers\SOBridge_RocketLaunchers.x2proj", "{2D926904-B465-45B9-9823-44FE71F13FAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|XCOM 2 = Default|XCOM 2
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F9961491-88FF-4A91-B4EC-26CDC2C8AC96}.Default|XCOM 2.ActiveCfg = Default|XCOM 2
-		{F9961491-88FF-4A91-B4EC-26CDC2C8AC96}.Default|XCOM 2.Build.0 = Default|XCOM 2
+		{2D926904-B465-45B9-9823-44FE71F13FAD}.Default|XCOM 2.ActiveCfg = Default|XCOM 2
+		{2D926904-B465-45B9-9823-44FE71F13FAD}.Default|XCOM 2.Build.0 = Default|XCOM 2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
