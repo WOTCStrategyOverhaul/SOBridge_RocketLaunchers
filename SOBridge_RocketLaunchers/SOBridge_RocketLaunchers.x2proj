@@ -11,8 +11,17 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Config\" />
+    <Folder Include="Src" />
+    <Folder Include="Src\SOBridge_RocketLaunchers" />
+    <Folder Include="Src\SOBridge_RocketLaunchers\Classes" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Config\XComEditor.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\XComEngine.ini">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Config\XComGame.ini">
       <SubType>Content</SubType>
     </Content>
@@ -27,6 +36,9 @@
     </Content>
     <Content Include="ReadMe.txt" />
     <Content Include="ModPreview.jpg" />
+    <Content Include="Src\SOBridge_RocketLaunchers\Classes\X2DownloadableContentInfo_SOBridge_RocketLaunchers.uc">
+      <SubType>Content</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)\XCOM2.targets" />
 </Project>
